@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170.19" height="48" viewBox="0 0 170.19 48">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fd0;
+      }
+
+      .cls-2 {
+        font-size: 36px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_2491" data-name="Group 2491" transform="translate(293.597 -36.828)">
+    <g id="Group_2485" data-name="Group 2485" transform="translate(-293.597 43.37)">
+      <path id="Path_2743" data-name="Path 2743" class="cls-1" d="M-287.631,43.191v8.914h22.191v15.56a6.631,6.631,0,0,1-6.631,6.631h-15.56v8.913h15.336A15.769,15.769,0,0,0-256.527,67.44V43.191Z" transform="translate(296.545 -43.191)"/>
+      <rect id="Rectangle_1230" data-name="Rectangle 1230" class="cls-1" width="8.914" height="22.183" transform="translate(0 8.922)"/>
+    </g>
+    <g id="Group_2488" data-name="Group 2488" transform="translate(-242.406 42.828)">
+      <g id="Group_2487" data-name="Group 2487">
+        <g id="Group_2486" data-name="Group 2486">
+          <text id="Crepixa" class="cls-2" transform="translate(0 33)"><tspan x="0" y="0">Crepixa</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
